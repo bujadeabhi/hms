@@ -22,7 +22,7 @@ export default function HospitalsPage() {
           type="button"
           className="btn primary"
           onClick={() =>
-           router.push("/hospitals/register/address")
+           router.push("/hospitals/register")
           }
         >
           Register Hospital
